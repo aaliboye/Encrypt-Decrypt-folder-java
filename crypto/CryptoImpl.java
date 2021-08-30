@@ -19,7 +19,7 @@ import javax.crypto.SecretKey;
 
 /**
  *
- * @author mamadou
+ * @author aaliboye
  */
 public class CryptoImpl implements ICrypto{
 

@@ -23,7 +23,7 @@ import javax.swing.JFileChooser;
 
 /**
  *
- * @author mamadou
+ * @author aaliboye
  */
 public class Test {
 

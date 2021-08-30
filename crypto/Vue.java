@@ -9,7 +9,7 @@ import javax.swing.JFileChooser;
 
 /**
  *
- * @author kanef
+ * @author aaliboye
  */
 public class Vue extends javax.swing.JFrame {
 

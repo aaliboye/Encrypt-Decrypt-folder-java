@@ -9,7 +9,7 @@ import javax.crypto.SecretKey;
 
 /**
  *
- * @author mamadou
+ * @author aaliboye
  */
 public interface ICrypto {
     //Hello TDSI
